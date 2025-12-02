@@ -14,6 +14,7 @@
 #include "esphome/components/camera/camera.h"
 #include "esphome/components/light/light_state.h"
 #include "esphome/components/text_sensor/text_sensor.h"
+#include "esphome/components/globals/globals_component.h"
 // #include "esphome/core/application.h"
 #include "model_handler.h"
 #include "memory_manager.h"
