@@ -1,7 +1,6 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/globals/globals.h"
 #include <vector>
 #include <string>
 
